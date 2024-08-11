@@ -16,7 +16,7 @@ To use this script, you'll need the following:
 Ensure you have Python 3.6 or higher installed. You can check your Python version with:
 
 ```bash
-    python3 --version
+python3 --version
 ```
 If Python is not installed, you can download it from python.org.
 
@@ -29,9 +29,9 @@ If Python is not installed, you can download it from python.org.
    It is recommended to create a virtual environment to manage your dependencies.
 
    ```bash
-    python3 -m venv myenv
-    source myenv/bin/activate  # On macOS/Linux
-    myenv\Scripts\activate  # On Windows
+   python3 -m venv myenv
+   source myenv/bin/activate  # On macOS/Linux
+   myenv\Scripts\activate  # On Windows
    ```
 
 3. **Install Required Packages:**  
