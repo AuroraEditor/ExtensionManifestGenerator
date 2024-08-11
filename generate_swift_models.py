@@ -108,5 +108,5 @@ def generate_swift_models(schema_file):
 
 # Main execution
 if __name__ == "__main__":
-    schema_file = "ExtensionManifestScheme.json"
+    schema_file = "manifest.json"
     generate_swift_models(schema_file)
